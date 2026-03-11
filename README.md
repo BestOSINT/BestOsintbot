@@ -33,3 +33,7 @@ https://t.me/SherlockRuDossier_bot
 https://t.me/SherlockWeB_bot
 
 https://t.me/Web3SherlockBot
+
+
+
+https://teletype.in/@bestosint/BestOsintbot
