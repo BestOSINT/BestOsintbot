@@ -10,6 +10,7 @@ OSINT и цифровой след RuDossier Telegram
 • Исследование транспортных средств
 • Проверка документов
 • Поиск по базам данных, открытым и закрытым источникам
+<img width="1116" height="760" alt="image" src="https://github.com/user-attachments/assets/db312810-90b1-445b-9b66-81552438925b" />
 
 Боты:
 
