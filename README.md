@@ -14,6 +14,8 @@ OSINT и цифровой след RuDossier Telegram
 
 Боты:
 
+https://t.me/SherlockWindows_bot
+
 https://t.me/W3Blockchain_bot
 
 https://t.me/POISK_Network_bot
