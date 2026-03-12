@@ -26,8 +26,6 @@ https://t.me/DossierSolutionsServicesFind_bot
 
 https://t.me/EyeOfGodIP_bot
 
-https://teletype.in/@bestosint/BestOsintbot
-
 
 
 https://teletype.in/@bestosint/BestOsintbot
