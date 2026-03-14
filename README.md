@@ -14,6 +14,8 @@ OSINT и цифровой след RuDossier Telegram
 
 Боты:
 
+https://t.me/CyberDetectives_bot
+
 https://t.me/SherlockWindows_bot
 
 https://t.me/OSINTBrowser_bot
