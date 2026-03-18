@@ -14,23 +14,15 @@ OSINT и цифровой след RuDossier Telegram
 
 Боты:
 
-[https://t.me/BestOsintBotRobot
-
-https://t.me/CyberDetectives_bot
-
-https://t.me/SherlockWindows_bot
+https://t.me/BestOsintBotRobot
 
 https://t.me/POISK_Network_bot
 
 https://t.me/DeepSeekPrivate_bot
 
-https://t.me/SocialNetworkSearch_bot](https://t.me/BestOsintBotRobot
+https://t.me/SocialNetworkSearch_bot
 
-  https://t.me/POISK_Network_bot
 
-https://t.me/DeepSeekPrivate_bot
-
-https://t.me/SocialNetworkSearch_bot)
 
 
 
