@@ -16,6 +16,10 @@ OSINT и цифровой след RuDossier Telegram
 
 https://t.me/BestOsintBotRobot
 
+https://t.me/HackDBBot
+
+https://t.me/DNSCrypt_Bot
+
 https://t.me/POISK_Network_bot
 
 https://t.me/DeepSeekPrivate_bot
