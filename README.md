@@ -15,15 +15,17 @@ OSINT и цифровой след RuDossier Telegram
 Боты:
 
 
-https://t.me/HackDBBot
+https://t.me/RuDossierSolaris_bot
+
+https://t.me/HackDBBot_bot
 
 https://t.me/DNSCrypt_Bot
 
-https://t.me/POISK_Network_bot
+https://t.me/Kryptel_bot
 
-https://t.me/DeepSeekPrivate_bot
+ https://t.me/POISK_Network_bot
 
-https://t.me/SocialNetworkSearch_bot
+https://t.me/rudossierlike_bot
 
 
 
