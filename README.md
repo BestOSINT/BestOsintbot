@@ -14,21 +14,15 @@ OSINT и цифровой след RuDossier Telegram
 
 Боты:
 
-
-https://t.me/RuDossierSolaris_bot
-
-https://t.me/HackDBBot_bot
+https://t.me/PrivateFace_bot
 
 https://t.me/DNSCrypt_Bot
 
 https://t.me/Kryptel_bot
-
- https://t.me/POISK_Network_bot
+ 
+https://t.me/POISK_Network_bot
 
 https://t.me/rudossierlike_bot
-
-
-
 
 
 https://teletype.in/@bestosint/BestOsintbot
