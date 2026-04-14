@@ -14,6 +14,9 @@ OSINT и цифровой след RuDossier Telegram
 
 Боты:
 
+Боты:
+https://t.me/Private_Proverka_bot
+
 https://t.me/WEBProverka_bot
 
 https://t.me/RuDossierOSINT_bot
