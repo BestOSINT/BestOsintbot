@@ -13,15 +13,17 @@ OSINT и цифровой след RuDossier Telegram
 <img width="1116" height="760" alt="image" src="https://github.com/user-attachments/assets/db312810-90b1-445b-9b66-81552438925b" />
 
 Боты:
-https://t.me/EyeGodsBotBest_bot
 
-https://t.me/AnonymityWeb_bot
+https://t.me/WEBProverka_bot
 
 https://t.me/RuDossierOSINT_bot
 
 https://t.me/EyeGodsBotTG_bot
 
 https://t.me/POISK_Network_bot
+
+https://t.me/order_rudossier_com_bot
+@order_rudossier_com_bot
 
 
 https://teletype.in/@bestosint/BestOsintbot
