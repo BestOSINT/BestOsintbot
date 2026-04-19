@@ -14,21 +14,16 @@ OSINT и цифровой след RuDossier Telegram
 
 Боты:
 
-Боты:
-https://t.me/Private_Proverka_bot
+https://t.me/Account_Anonim_bot
 
-https://t.me/CryptoPoccuu_bot
 
-https://t.me/Amnezia_ONLINE_bot
+https://t.me/Rubot_ONLINE_bot
 
-https://t.me/RuDossierOSINT_bot
-
-https://t.me/EyeGodsBotTGbot
 
 https://t.me/POISK_Network_bot
 
+
 https://t.me/order_rudossier_com_bot
-@order_rudossier_com_bot
 
 
 https://teletype.in/@bestosint/BestOsintbot
