@@ -14,10 +14,12 @@ OSINT и цифровой след RuDossier Telegram
 
 Боты:
 
-https://t.me/DetectiveWeb_bot
-
-https://t.me/POISK_Network_bot
-
+[OSINT Detective  (🔥 HOT  NEW🔥)
+Telegram Rudossier  (🔥 HOT  NEW🔥)
+КиберДетектив Бот (🔥 HOT 🔥)
+КиберДетектив Бот (New v2)
+Cyber Detective OSINT 
 https://t.me/order_rudossier_com_bot
-
-https://teletype.in/@bestosint/BestOsintbot
+https://t.me/Stockvpnbot
+https://vk.com/bestosint
+](https://teletype.in/@bestosint/BestOsintbot#qS1W)
