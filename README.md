@@ -1,4 +1,4 @@
-
+[
 
 OSINT и цифровой след RuDossier Telegram
 
@@ -6,6 +6,8 @@ OSINT и цифровой след RuDossier Telegram
 🔍 В моём арсенале: • Анализ номеров телефонов и контактных данных • Исследование транспортных средств • Проверка документов • Поиск по базам данных, открытым и закрытым источникам
 Боты:
 🔥 🔥  OSINT разведка и пробив  🔥 🔥
+https://t.me/RazvedkaDossier_bot?start=_ref_BFvVWn_c1ncGc
+
 https://t.me/asupershpitz31_bot?start=_ref_BFvVWn_c1ncGc
 
 
@@ -18,3 +20,4 @@ https://t.me/guccanbot
 https://t.me/maisdsadbot
 https://t.me/Konkurs_ta4ek_bot
 https://t.me/al1nkabot
+https://t.me/asupershpitz31_bot?start=_ref_BFvVWn_c1ncGc
