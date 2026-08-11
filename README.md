@@ -7,12 +7,22 @@ OSINT и цифровой след RuDossier Telegram
 Боты:
 
 OSINT Инструментарий БОТ🔥)🔥 (https://t.me/RazvedkaDossier_bot?start=_ref_BFvVWn_c1ncGc)
+(🔥 HOT 🔥) 
 🔥)🔥) OSINT: разведка по открытым источникам... БОТ🔥)🔥) (https://t.me/NEWDetective_bot?start=_ref_BFvVWn_c1ncGc)
+(🔥 HOT 🔥) 
 Rudossier VPN (🔥 HOT NEW🔥) (https://t.me/RudossierVPN_bot)
-К (https://t.me/VKHistoryParser_bot?start=_ref_BFvVWn_c1ncGc)иберДетектив Бот (🔥 HOT 🔥) (https://t.me/Tgclouds_bot?start=_ref_BFvVWn_c1ncGc)
+
+К (https://t.me/VKHistoryParser_bot?start=_ref_BFvVWn_c1ncGc)иберДетектив Бот 
+(🔥 HOT 🔥) 
+(https://t.me/Tgclouds_bot?start=_ref_BFvVWn_c1ncGc)
+(🔥 HOT 🔥) 
 КиберДетектив Бот (New v2) (https://t.me/MossadAgentRobot)
+(🔥 HOT 🔥) 
 Cyber Detective OSINT (https://t.me/xRateChangeBot)
-https://t.me/Stockvpnbot Боты-зеркала (на случай блокировки основных)
+(🔥 HOT 🔥) 
+https://t.me/Stockvpnbot 
+(🔥 HOT 🔥) 
+Боты-зеркала (на случай блокировки основных)
 https://t.me/gift_arbitrage_scanner_bot
 https://t.me/guccanbot
 https://t.me/maisdsadbot
